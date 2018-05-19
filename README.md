@@ -1,1 +1,2 @@
-# Data-Analysis-on-Maintenance-Data
+# Analysis-of-Maintenance-Data
+Tableau and Minitab was used to carry out detailed analysis on equipment maintenance cost. Pareto analysis revealed the three major problems that is consuming more than 80% of it's total maintenance cost. Also identified were the major equipment groups and equipment Ids costing more in maintenance over the entire data period. Useful recommendations were made for improving the company's maintenance culture.
